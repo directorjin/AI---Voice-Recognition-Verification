@@ -1,5 +1,6 @@
 # AI---Voice-Recognition
 
+<hr>
 説明
 =======
 
@@ -9,6 +10,8 @@ MSのLUISという人工知能を使って作りました。
 --------------
 音声認識コードなので重要な写真がありません。 コードを説明します。
 ---------------
+
+<hr/>
 
 <img width="800" src="https://user-images.githubusercontent.com/44941601/78568519-2f5ae880-785d-11ea-9645-e99d245d36c9.png">
 <img width="800" src="https://user-images.githubusercontent.com/44941601/78568519-2f5ae880-785d-11ea-9645-e99d245d36c9.png">
